@@ -1,0 +1,3 @@
+Piriton;120 gms;1x3;15;5;75
+Dual Cotexin;150 gms;1x3;10;120;1200
+TOTAL;;;;;1275
